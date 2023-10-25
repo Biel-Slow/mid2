@@ -17,7 +17,7 @@ document.querySelector('.tecla_tim').onclick = tocaSomTim;
 function tocaSomPuff(){
     document.querySelector('#som_tecla_Puff')
 }
-document.querySelector('.tecla_Puff').onclick = tocaSomPuff;
+document.querySelector('.tecla_puff').onclick = tocaSomPuff;
 
 function tocaSomSplash(){
     document.querySelector('#som_tecla_Splash')
@@ -27,7 +27,7 @@ document.querySelector('.tecla_splash').onclick = tocaSomSplash;
 function tocaSomToim(){
     document.querySelector('#som_tecla_Toim')
 }
-document.querySelector('.tecla_Toim').onclick = tocaSomToim;
+document.querySelector('.tecla_toim').onclick = tocaSomToim;
 
 function tocaSomPsh(){
     document.querySelector('#som_tecla_psh')
@@ -37,11 +37,11 @@ document.querySelector('.tecla_psh').onclick = tocaSomPsh;
 function tocaSomTic(){
     document.querySelector('#som_tecla_Tic')
 }
-document.querySelector('.tecla_Tic').onclick = tocaSomTic;
+document.querySelector('.tecla_tic').onclick = tocaSomTic;
 
 function tocaSomTom(){
     document.querySelector('#som_tecla_Tom')
 }
-document.querySelector('.tecla_Tom').onclick = tocaSomTom;
+document.querySelector('.tecla_tom').onclick = tocaSomTom;
 
 
